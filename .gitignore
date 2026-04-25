@@ -7,7 +7,6 @@ contact_sheet_*.jpg
 
 # Raw audio is large and not needed for Markdown rendering/evidence review
 audio/
-videos/
 
 # Python/cache artifacts
 __pycache__/
