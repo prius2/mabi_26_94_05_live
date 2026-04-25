@@ -1376,7 +1376,9 @@
     1834,
     1838,
     1846,
-    1850
+    1850,
+    1857,
+    1860
   ],
   "processed_transcripts": [
     0,
@@ -1810,13 +1812,15 @@
     614,
     615,
     616,
-    617
+    617,
+    618,
+    619
   ],
-  "last_run": "2026-04-25 19:32:35 KST",
+  "last_run": "2026-04-25 19:34:13 KST",
   "last_counts": {
-    "frames": 1854,
-    "audio": 619,
-    "transcripts": 432
+    "frames": 1864,
+    "audio": 622,
+    "transcripts": 434
   },
   "ended_checks": 0
 }
