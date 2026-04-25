@@ -1978,11 +1978,11 @@
     718,
     719
   ],
-  "last_run": "2026-04-25 20:59:17 KST",
+  "last_run": "2026-04-25 21:06:31 KST",
   "last_counts": {
     "frames": 2159,
     "audio": 720,
     "transcripts": 544
   },
-  "ended_checks": 0
+  "ended_checks": 1
 }
