@@ -1,0 +1,13 @@
+# Runtime/temporary files
+stream_url.txt
+processes.txt
+pid_*.txt
+*.log
+
+# Raw audio is large and not needed for Markdown rendering/evidence review
+audio/*.wav
+
+# Python/cache artifacts
+__pycache__/
+*.pyc
+.venv/
