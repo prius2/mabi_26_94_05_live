@@ -557,7 +557,8 @@
     970,
     980,
     994,
-    998
+    998,
+    1032
   ],
   "processed_transcripts": [
     0,
@@ -820,9 +821,9 @@
     257,
     258
   ],
-  "last_run": "2026-04-25 17:15:07 KST",
+  "last_run": "2026-04-25 17:17:30 KST",
   "last_counts": {
-    "frames": 998,
+    "frames": 1032,
     "audio": 333,
     "transcripts": 259
   },
