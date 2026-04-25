@@ -566,7 +566,8 @@
     1091,
     1097,
     1103,
-    1104
+    1104,
+    1107
   ],
   "processed_transcripts": [
     0,
@@ -834,8 +835,8 @@
   ],
   "last_run": "2026-04-25 17:26:27 KST",
   "last_counts": {
-    "frames": 1106,
-    "audio": 369,
+    "frames": 1108,
+    "audio": 370,
     "transcripts": 262
   },
   "ended_checks": 0
