@@ -1,0 +1,8 @@
+stream_url.txt
+processes.txt
+pid_*.txt
+*.log
+audio/
+__pycache__/
+*.pyc
+.venv/
