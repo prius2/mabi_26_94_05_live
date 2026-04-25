@@ -3,6 +3,7 @@ stream_url.txt
 processes.txt
 pid_*.txt
 *.log
+contact_sheet_*.jpg
 
 # Raw audio is large and not needed for Markdown rendering/evidence review
 audio/
