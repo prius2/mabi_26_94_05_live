@@ -1313,7 +1313,11 @@
     1311,
     1312,
     1313,
-    1314
+    1314,
+    1315,
+    1316,
+    1317,
+    1318
   ],
   "processed_transcripts": [
     0,
@@ -1589,10 +1593,10 @@
     270,
     271
   ],
-  "last_run": "2026-04-25 18:02:34 KST",
+  "last_run": "2026-04-25 18:03:21 KST",
   "last_counts": {
-    "frames": 1314,
-    "audio": 439,
+    "frames": 1318,
+    "audio": 440,
     "transcripts": 272
   },
   "ended_checks": 0
