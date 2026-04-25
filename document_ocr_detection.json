@@ -1,0 +1,3854 @@
+{
+  "total_frames": 529,
+  "document_frames": 116,
+  "groups": 23,
+  "representatives": [
+    {
+      "file": "frame_000001.jpg",
+      "frame": 1,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "B/&品/台设",
+        "/BM",
+        "品品品品K",
+        "（号品k）",
+        "N",
+        "SANITA.",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.587,
+        0.675,
+        0.748,
+        0.679,
+        0.997,
+        0.972,
+        0.966
+      ],
+      "group_start": 1,
+      "group_end": 1,
+      "group_size": 1
+    },
+    {
+      "file": "frame_000017.jpg",
+      "frame": 17,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "h",
+        "（号品合品",
+        "SANITA."
+      ],
+      "scores": [
+        0.55,
+        0.726,
+        0.67,
+        0.598,
+        0.967
+      ],
+      "group_start": 17,
+      "group_end": 17,
+      "group_size": 1
+    },
+    {
+      "file": "frame_000037.jpg",
+      "frame": 37,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（品lololBololo）",
+        "(",
+        "（号品易合",
+        "N",
+        "SANITA:"
+      ],
+      "scores": [
+        0.532,
+        0.545,
+        0.748,
+        0.604,
+        0.594,
+        0.564,
+        0.999,
+        0.933
+      ],
+      "group_start": 33,
+      "group_end": 39,
+      "group_size": 4
+    },
+    {
+      "file": "frame_000047.jpg",
+      "frame": 47,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "//鸡",
+        "/",
+        "品品品品K",
+        "（号初品8nn",
+        "N",
+        "SANITA:"
+      ],
+      "scores": [
+        0.53,
+        0.621,
+        0.749,
+        0.512,
+        0.998,
+        0.905
+      ],
+      "group_start": 47,
+      "group_end": 47,
+      "group_size": 1
+    },
+    {
+      "file": "frame_000072.jpg",
+      "frame": 72,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "/",
+        "/B",
+        "品品品品K",
+        "（品locoo）",
+        "(EP",
+        "N",
+        "SANITA:",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.636,
+        0.693,
+        0.781,
+        0.66,
+        0.609,
+        0.998,
+        0.915,
+        0.938
+      ],
+      "group_start": 68,
+      "group_end": 80,
+      "group_size": 6
+    },
+    {
+      "file": "frame_000105.jpg",
+      "frame": 105,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "士K",
+        "（号Ao&kB）",
+        "N",
+        "SANITAI"
+      ],
+      "scores": [
+        0.767,
+        0.713,
+        0.522,
+        0.607,
+        0.998,
+        0.891
+      ],
+      "group_start": 104,
+      "group_end": 112,
+      "group_size": 5
+    },
+    {
+      "file": "frame_000131.jpg",
+      "frame": 131,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "N",
+        "SANITAI"
+      ],
+      "scores": [
+        0.507,
+        0.838,
+        0.8,
+        0.989,
+        0.9
+      ],
+      "group_start": 131,
+      "group_end": 131,
+      "group_size": 1
+    },
+    {
+      "file": "frame_000173.jpg",
+      "frame": 173,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 10,
+      "content_box_count": 9,
+      "texts": [
+        "品",
+        "/",
+        "/",
+        "品品品品K",
+        "百K",
+        "（号80k）",
+        "N",
+        "SANITAI",
+        "\"UNIFL"
+      ],
+      "scores": [
+        0.534,
+        0.595,
+        0.756,
+        0.758,
+        0.558,
+        0.564,
+        0.988,
+        0.881,
+        0.793
+      ],
+      "group_start": 171,
+      "group_end": 195,
+      "group_size": 17
+    },
+    {
+      "file": "frame_000224.jpg",
+      "frame": 224,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 14,
+      "content_box_count": 13,
+      "texts": [
+        "O",
+        "（13）",
+        "（3）",
+        "三",
+        "121",
+        "豆院12月",
+        "（）",
+        "（号)",
+        "（）",
+        "(",
+        "(",
+        "（）"
+      ],
+      "scores": [
+        0.684,
+        0.745,
+        0.65,
+        0.68,
+        0.54,
+        0.554,
+        0.58,
+        0.609,
+        0.509,
+        0.61,
+        0.587,
+        0.671
+      ],
+      "group_start": 208,
+      "group_end": 233,
+      "group_size": 18
+    },
+    {
+      "file": "frame_000240.jpg",
+      "frame": 240,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号kB）",
+        "NY",
+        "SANITAI",
+        "\"UNIFRA"
+      ],
+      "scores": [
+        0.71,
+        0.897,
+        0.808,
+        0.567,
+        0.746,
+        0.975,
+        0.944
+      ],
+      "group_start": 240,
+      "group_end": 241,
+      "group_size": 2
+    },
+    {
+      "file": "frame_000254.jpg",
+      "frame": 254,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 10,
+      "content_box_count": 9,
+      "texts": [
+        "品",
+        "hlelo",
+        "型//",
+        "/|/BM",
+        "品品品品K",
+        "（号标品R&kB）",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.542,
+        0.917,
+        0.561,
+        0.719,
+        0.778,
+        0.573,
+        0.901,
+        0.964,
+        0.975
+      ],
+      "group_start": 253,
+      "group_end": 254,
+      "group_size": 2
+    },
+    {
+      "file": "frame_000266.jpg",
+      "frame": 266,
+      "is_document": true,
+      "line_count": 7,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "K",
+        "h",
+        "（号良品loo）",
+        "（号品nn",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.674,
+        0.69,
+        0.822,
+        0.553,
+        0.611,
+        0.568,
+        0.54,
+        0.744,
+        0.97,
+        0.904
+      ],
+      "group_start": 266,
+      "group_end": 266,
+      "group_size": 1
+    },
+    {
+      "file": "frame_000280.jpg",
+      "frame": 280,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号nlnh",
+        "NY",
+        "SANITI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.674,
+        0.764,
+        0.74,
+        0.608,
+        0.888,
+        0.978,
+        0.913
+      ],
+      "group_start": 280,
+      "group_end": 282,
+      "group_size": 2
+    },
+    {
+      "file": "frame_000297.jpg",
+      "frame": 297,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "（品lo量器oxilololo）",
+        "（号品合n",
+        "NY",
+        "SANITAI",
+        "\"UNIFR"
+      ],
+      "scores": [
+        0.842,
+        0.742,
+        0.58,
+        0.615,
+        0.971,
+        0.986,
+        0.973
+      ],
+      "group_start": 296,
+      "group_end": 301,
+      "group_size": 4
+    },
+    {
+      "file": "frame_000308.jpg",
+      "frame": 308,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "//",
+        "//BM",
+        "品品品品K",
+        "NY",
+        "SANITAT.",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.766,
+        0.855,
+        0.797,
+        0.994,
+        0.966,
+        0.915
+      ],
+      "group_start": 308,
+      "group_end": 308,
+      "group_size": 1
+    },
+    {
+      "file": "frame_000317.jpg",
+      "frame": 317,
+      "is_document": true,
+      "line_count": 7,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "（号品lo量器o品1o）",
+        "（号l",
+        "NY",
+        "SANITAI.",
+        "\"UNIRRAA"
+      ],
+      "scores": [
+        0.769,
+        0.794,
+        0.572,
+        0.701,
+        0.993,
+        0.907,
+        0.883
+      ],
+      "group_start": 317,
+      "group_end": 317,
+      "group_size": 1
+    },
+    {
+      "file": "frame_000325.jpg",
+      "frame": 325,
+      "is_document": true,
+      "line_count": 7,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "（品loxBlololo）",
+        "（号品8owB）",
+        "NY",
+        "SANITAI",
+        "\"UNIFR"
+      ],
+      "scores": [
+        0.782,
+        0.81,
+        0.657,
+        0.537,
+        0.98,
+        0.986,
+        0.908
+      ],
+      "group_start": 325,
+      "group_end": 328,
+      "group_size": 4
+    },
+    {
+      "file": "frame_000346.jpg",
+      "frame": 346,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "品",
+        "型/",
+        "/BM",
+        "品品品品K",
+        "百K",
+        "（号品lo器xlo）",
+        "2026326（",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.801,
+        0.561,
+        0.905,
+        0.72,
+        0.536,
+        0.545,
+        0.897,
+        0.875,
+        0.96,
+        0.913
+      ],
+      "group_start": 342,
+      "group_end": 353,
+      "group_size": 12
+    },
+    {
+      "file": "frame_000393.jpg",
+      "frame": 393,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号品",
+        "号",
+        "N",
+        "SANITAT",
+        "\"VIFORM\""
+      ],
+      "scores": [
+        0.582,
+        0.713,
+        0.692,
+        0.694,
+        0.565,
+        0.994,
+        0.851,
+        0.853
+      ],
+      "group_start": 384,
+      "group_end": 410,
+      "group_size": 21
+    },
+    {
+      "file": "frame_000446.jpg",
+      "frame": 446,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号品会ln",
+        "N",
+        "SAN-AI",
+        "NIFORM"
+      ],
+      "scores": [
+        0.576,
+        0.708,
+        0.705,
+        0.55,
+        0.998,
+        0.825,
+        0.883
+      ],
+      "group_start": 446,
+      "group_end": 446,
+      "group_size": 1
+    },
+    {
+      "file": "frame_000498.jpg",
+      "frame": 498,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "B百K",
+        "（号8月l",
+        "N",
+        "SANITAT,",
+        "\"NIFORM"
+      ],
+      "scores": [
+        0.734,
+        0.759,
+        0.8,
+        0.548,
+        0.574,
+        0.958,
+        0.905,
+        0.938
+      ],
+      "group_start": 492,
+      "group_end": 503,
+      "group_size": 6
+    },
+    {
+      "file": "frame_000514.jpg",
+      "frame": 514,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "K",
+        "（号品青会nln",
+        "SAN\"A.",
+        "\"gNIFOA."
+      ],
+      "scores": [
+        0.763,
+        0.664,
+        0.807,
+        0.588,
+        0.53,
+        0.933,
+        0.772
+      ],
+      "group_start": 510,
+      "group_end": 514,
+      "group_size": 2
+    },
+    {
+      "file": "frame_000528.jpg",
+      "frame": 528,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "8品",
+        "/",
+        "/BM",
+        "品品品品K",
+        "科",
+        "（号品8A",
+        "SANIA.",
+        "\"UNIFON"
+      ],
+      "scores": [
+        0.554,
+        0.699,
+        0.703,
+        0.841,
+        0.534,
+        0.561,
+        0.928,
+        0.802
+      ],
+      "group_start": 527,
+      "group_end": 529,
+      "group_size": 3
+    }
+  ],
+  "all_document_frames": [
+    {
+      "file": "frame_000001.jpg",
+      "frame": 1,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "B/&品/台设",
+        "/BM",
+        "品品品品K",
+        "（号品k）",
+        "N",
+        "SANITA.",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.587,
+        0.675,
+        0.748,
+        0.679,
+        0.997,
+        0.972,
+        0.966
+      ]
+    },
+    {
+      "file": "frame_000017.jpg",
+      "frame": 17,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "h",
+        "（号品合品",
+        "SANITA."
+      ],
+      "scores": [
+        0.55,
+        0.726,
+        0.67,
+        0.598,
+        0.967
+      ]
+    },
+    {
+      "file": "frame_000033.jpg",
+      "frame": 33,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 3,
+      "content_box_count": 2,
+      "texts": [
+        "8",
+        "日口"
+      ],
+      "scores": [
+        0.636,
+        0.521
+      ]
+    },
+    {
+      "file": "frame_000037.jpg",
+      "frame": 37,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（品lololBololo）",
+        "(",
+        "（号品易合",
+        "N",
+        "SANITA:"
+      ],
+      "scores": [
+        0.532,
+        0.545,
+        0.748,
+        0.604,
+        0.594,
+        0.564,
+        0.999,
+        0.933
+      ]
+    },
+    {
+      "file": "frame_000038.jpg",
+      "frame": 38,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（locBolo）",
+        "（号8nn",
+        "N",
+        "SANITA.",
+        "NIP"
+      ],
+      "scores": [
+        0.572,
+        0.724,
+        0.744,
+        0.659,
+        0.51,
+        0.998,
+        0.927,
+        0.795
+      ]
+    },
+    {
+      "file": "frame_000039.jpg",
+      "frame": 39,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/B",
+        "品品品品K",
+        "h",
+        "N",
+        "SANITA:",
+        "HUNIP",
+        "AA"
+      ],
+      "scores": [
+        0.575,
+        0.822,
+        0.669,
+        0.998,
+        0.928,
+        0.654,
+        0.611
+      ]
+    },
+    {
+      "file": "frame_000047.jpg",
+      "frame": 47,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "//鸡",
+        "/",
+        "品品品品K",
+        "（号初品8nn",
+        "N",
+        "SANITA:"
+      ],
+      "scores": [
+        0.53,
+        0.621,
+        0.749,
+        0.512,
+        0.998,
+        0.905
+      ]
+    },
+    {
+      "file": "frame_000068.jpg",
+      "frame": 68,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（号k8）",
+        "N",
+        "SANITA.",
+        "\"UNIPRM"
+      ],
+      "scores": [
+        0.679,
+        0.737,
+        0.81,
+        0.629,
+        0.993,
+        0.95,
+        0.883
+      ]
+    },
+    {
+      "file": "frame_000072.jpg",
+      "frame": 72,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "/",
+        "/B",
+        "品品品品K",
+        "（品locoo）",
+        "(EP",
+        "N",
+        "SANITA:",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.636,
+        0.693,
+        0.781,
+        0.66,
+        0.609,
+        0.998,
+        0.915,
+        0.938
+      ]
+    },
+    {
+      "file": "frame_000073.jpg",
+      "frame": 73,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/B",
+        "舟",
+        "品品品品K",
+        "（号品8nno",
+        "N",
+        "SANITA:",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.683,
+        0.719,
+        0.812,
+        0.579,
+        0.999,
+        0.954,
+        0.939
+      ]
+    },
+    {
+      "file": "frame_000074.jpg",
+      "frame": 74,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "|/BM",
+        "品品品品K",
+        "（号品有合",
+        "N",
+        "SANITA:",
+        "\"UNIFRMA"
+      ],
+      "scores": [
+        0.759,
+        0.743,
+        0.525,
+        0.997,
+        0.937,
+        0.897
+      ]
+    },
+    {
+      "file": "frame_000079.jpg",
+      "frame": 79,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 3,
+      "content_box_count": 2,
+      "texts": [
+        "园",
+        "UMBRO"
+      ],
+      "scores": [
+        0.749,
+        0.924
+      ]
+    },
+    {
+      "file": "frame_000080.jpg",
+      "frame": 80,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/B",
+        "品品品品K",
+        "（号AR&k3）",
+        "N",
+        "SANITA.",
+        "\"UNIF&M\""
+      ],
+      "scores": [
+        0.687,
+        0.854,
+        0.623,
+        0.999,
+        0.895,
+        0.791
+      ]
+    },
+    {
+      "file": "frame_000104.jpg",
+      "frame": 104,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（号良品loBolo）",
+        "（号品Tk）",
+        "N",
+        "SANITAI",
+        "\"INIPC"
+      ],
+      "scores": [
+        0.71,
+        0.75,
+        0.809,
+        0.577,
+        0.597,
+        0.999,
+        0.906,
+        0.572
+      ]
+    },
+    {
+      "file": "frame_000105.jpg",
+      "frame": 105,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "士K",
+        "（号Ao&kB）",
+        "N",
+        "SANITAI"
+      ],
+      "scores": [
+        0.767,
+        0.713,
+        0.522,
+        0.607,
+        0.998,
+        0.891
+      ]
+    },
+    {
+      "file": "frame_000106.jpg",
+      "frame": 106,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/",
+        "/B",
+        "品品品品K",
+        "（号合AohkB）",
+        "N",
+        "SANITAI",
+        "\"UNIFCAN"
+      ],
+      "scores": [
+        0.726,
+        0.645,
+        0.8,
+        0.562,
+        0.999,
+        0.895,
+        0.546
+      ]
+    },
+    {
+      "file": "frame_000107.jpg",
+      "frame": 107,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 3,
+      "content_box_count": 2,
+      "texts": [
+        "CONNECT",
+        "月招量"
+      ],
+      "scores": [
+        0.833,
+        0.705
+      ]
+    },
+    {
+      "file": "frame_000112.jpg",
+      "frame": 112,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "K",
+        "（号BaHok）",
+        "N",
+        "SANITAi"
+      ],
+      "scores": [
+        0.722,
+        0.73,
+        0.536,
+        0.546,
+        0.998,
+        0.907
+      ]
+    },
+    {
+      "file": "frame_000131.jpg",
+      "frame": 131,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "N",
+        "SANITAI"
+      ],
+      "scores": [
+        0.507,
+        0.838,
+        0.8,
+        0.989,
+        0.9
+      ]
+    },
+    {
+      "file": "frame_000171.jpg",
+      "frame": 171,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "型/智/鸡",
+        "/BM",
+        "品品品品K",
+        "（号品合owkB）",
+        "N",
+        "SANITAI"
+      ],
+      "scores": [
+        0.528,
+        0.887,
+        0.803,
+        0.519,
+        0.997,
+        0.885
+      ]
+    },
+    {
+      "file": "frame_000172.jpg",
+      "frame": 172,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（号合oB）",
+        "N",
+        "SANITAI"
+      ],
+      "scores": [
+        0.534,
+        0.793,
+        0.725,
+        0.526,
+        0.998,
+        0.901
+      ]
+    },
+    {
+      "file": "frame_000173.jpg",
+      "frame": 173,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 10,
+      "content_box_count": 9,
+      "texts": [
+        "品",
+        "/",
+        "/",
+        "品品品品K",
+        "百K",
+        "（号80k）",
+        "N",
+        "SANITAI",
+        "\"UNIFL"
+      ],
+      "scores": [
+        0.534,
+        0.595,
+        0.756,
+        0.758,
+        0.558,
+        0.564,
+        0.988,
+        0.881,
+        0.793
+      ]
+    },
+    {
+      "file": "frame_000174.jpg",
+      "frame": 174,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "//",
+        "/",
+        "品品品品K",
+        "（号品品lxolo）",
+        "（号存有8A0RkB）",
+        "N",
+        "SANITAI",
+        "\"MNIFY"
+      ],
+      "scores": [
+        0.648,
+        0.601,
+        0.793,
+        0.555,
+        0.53,
+        0.99,
+        0.927,
+        0.544
+      ]
+    },
+    {
+      "file": "frame_000175.jpg",
+      "frame": 175,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/",
+        "/",
+        "品品品品K",
+        "（号合Rk）",
+        "N",
+        "SANITAI",
+        "\"WNIFUV\""
+      ],
+      "scores": [
+        0.532,
+        0.605,
+        0.81,
+        0.582,
+        0.996,
+        0.905,
+        0.659
+      ]
+    },
+    {
+      "file": "frame_000176.jpg",
+      "frame": 176,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "N",
+        "SANITAI"
+      ],
+      "scores": [
+        0.553,
+        0.779,
+        0.735,
+        0.998,
+        0.883
+      ]
+    },
+    {
+      "file": "frame_000181.jpg",
+      "frame": 181,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 3,
+      "content_box_count": 2,
+      "texts": [
+        "CONNECT",
+        "10300"
+      ],
+      "scores": [
+        0.986,
+        0.666
+      ]
+    },
+    {
+      "file": "frame_000186.jpg",
+      "frame": 186,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "O",
+        "（3）",
+        "（43）",
+        "三",
+        "12月",
+        "豆院12月",
+        "(",
+        "（号）",
+        "(君)",
+        "（品）"
+      ],
+      "scores": [
+        0.743,
+        0.66,
+        0.584,
+        0.649,
+        0.611,
+        0.614,
+        0.632,
+        0.581,
+        0.594,
+        0.592
+      ]
+    },
+    {
+      "file": "frame_000187.jpg",
+      "frame": 187,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 13,
+      "content_box_count": 12,
+      "texts": [
+        "O",
+        "（13）",
+        "（43）",
+        "三",
+        "1",
+        "豆院12月",
+        "（）",
+        "（全号）",
+        "（）",
+        "（号记）",
+        "(",
+        "）"
+      ],
+      "scores": [
+        0.733,
+        0.667,
+        0.686,
+        0.727,
+        0.604,
+        0.6,
+        0.585,
+        0.52,
+        0.575,
+        0.571,
+        0.511,
+        0.581
+      ]
+    },
+    {
+      "file": "frame_000188.jpg",
+      "frame": 188,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 15,
+      "content_box_count": 14,
+      "texts": [
+        "O",
+        "（13）",
+        "43）",
+        "三",
+        "12",
+        "号",
+        "豆12月",
+        "（）",
+        "（号)",
+        "()",
+        "(",
+        "（号记）"
+      ],
+      "scores": [
+        0.749,
+        0.762,
+        0.67,
+        0.694,
+        0.564,
+        0.576,
+        0.687,
+        0.571,
+        0.608,
+        0.502,
+        0.54,
+        0.594
+      ]
+    },
+    {
+      "file": "frame_000189.jpg",
+      "frame": 189,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 10,
+      "content_box_count": 9,
+      "texts": [
+        "O",
+        "（13）",
+        "（43）",
+        "三",
+        "21",
+        "豆院12月",
+        "（）",
+        "（）",
+        "（号记0）"
+      ],
+      "scores": [
+        0.738,
+        0.641,
+        0.582,
+        0.766,
+        0.574,
+        0.501,
+        0.619,
+        0.526,
+        0.557
+      ]
+    },
+    {
+      "file": "frame_000190.jpg",
+      "frame": 190,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "O",
+        "（13）",
+        "）",
+        "三",
+        "豆院12月",
+        "（号）",
+        "（全号）",
+        "(",
+        "（号记10品）",
+        "）"
+      ],
+      "scores": [
+        0.686,
+        0.698,
+        0.639,
+        0.768,
+        0.639,
+        0.625,
+        0.544,
+        0.658,
+        0.626,
+        0.545
+      ]
+    },
+    {
+      "file": "frame_000191.jpg",
+      "frame": 191,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 13,
+      "content_box_count": 12,
+      "texts": [
+        "O",
+        "（13）",
+        "（）",
+        "号",
+        "后",
+        "豆12有",
+        "（）",
+        "（全号）",
+        "(消君)",
+        "（号）",
+        "（1品）",
+        "品"
+      ],
+      "scores": [
+        0.714,
+        0.736,
+        0.571,
+        0.825,
+        0.524,
+        0.534,
+        0.585,
+        0.608,
+        0.532,
+        0.585,
+        0.525,
+        0.587
+      ]
+    },
+    {
+      "file": "frame_000192.jpg",
+      "frame": 192,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 13,
+      "content_box_count": 12,
+      "texts": [
+        "O",
+        "（13）",
+        "（3）",
+        "三",
+        "2月",
+        "豆R12月",
+        "（）",
+        "(",
+        "（忌)",
+        "（号0）",
+        "(",
+        "（品）"
+      ],
+      "scores": [
+        0.705,
+        0.735,
+        0.606,
+        0.544,
+        0.578,
+        0.517,
+        0.599,
+        0.647,
+        0.558,
+        0.632,
+        0.704,
+        0.576
+      ]
+    },
+    {
+      "file": "frame_000193.jpg",
+      "frame": 193,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 13,
+      "content_box_count": 12,
+      "texts": [
+        "O",
+        "（13）",
+        "（43）",
+        "三",
+        "121",
+        "12月",
+        "（州）",
+        "(",
+        "(",
+        "（号0）",
+        "（品）",
+        "品"
+      ],
+      "scores": [
+        0.719,
+        0.796,
+        0.544,
+        0.667,
+        0.514,
+        0.592,
+        0.541,
+        0.62,
+        0.628,
+        0.665,
+        0.531,
+        0.738
+      ]
+    },
+    {
+      "file": "frame_000194.jpg",
+      "frame": 194,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "O",
+        "（13）",
+        "（3）",
+        "豆12月",
+        "(",
+        "（号0）",
+        "（品）",
+        "品号度"
+      ],
+      "scores": [
+        0.714,
+        0.701,
+        0.651,
+        0.614,
+        0.569,
+        0.624,
+        0.576,
+        0.558
+      ]
+    },
+    {
+      "file": "frame_000195.jpg",
+      "frame": 195,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 16,
+      "content_box_count": 15,
+      "texts": [
+        "O",
+        "（13）",
+        "（3）",
+        "三",
+        "1121",
+        "三",
+        "豆2",
+        "12月",
+        "（）",
+        "（全）",
+        "(",
+        "("
+      ],
+      "scores": [
+        0.713,
+        0.693,
+        0.565,
+        0.599,
+        0.631,
+        0.539,
+        0.643,
+        0.597,
+        0.523,
+        0.506,
+        0.545,
+        0.598
+      ]
+    },
+    {
+      "file": "frame_000208.jpg",
+      "frame": 208,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "）",
+        "8M0",
+        "(ag)",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.505,
+        0.596,
+        0.524,
+        0.832,
+        0.97,
+        0.956
+      ]
+    },
+    {
+      "file": "frame_000209.jpg",
+      "frame": 209,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（号8&k）",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.591,
+        0.845,
+        0.689,
+        0.581,
+        0.94,
+        0.977,
+        0.921
+      ]
+    },
+    {
+      "file": "frame_000213.jpg",
+      "frame": 213,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "）",
+        "10K",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.706,
+        0.577,
+        0.89,
+        0.976,
+        0.955
+      ]
+    },
+    {
+      "file": "frame_000217.jpg",
+      "frame": 217,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 5,
+      "content_box_count": 4,
+      "texts": [
+        "）c",
+        "a8Mo",
+        "MENA",
+        "(W)"
+      ],
+      "scores": [
+        0.663,
+        0.506,
+        0.829,
+        0.621
+      ]
+    },
+    {
+      "file": "frame_000218.jpg",
+      "frame": 218,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 3,
+      "content_box_count": 2,
+      "texts": [
+        "2（",
+        "(aR)"
+      ],
+      "scores": [
+        0.567,
+        0.527
+      ]
+    },
+    {
+      "file": "frame_000219.jpg",
+      "frame": 219,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "O",
+        "7（13）",
+        "（）",
+        "三",
+        "12月",
+        "（）",
+        "（)",
+        "（号）"
+      ],
+      "scores": [
+        0.751,
+        0.737,
+        0.542,
+        0.625,
+        0.527,
+        0.779,
+        0.552,
+        0.692
+      ]
+    },
+    {
+      "file": "frame_000220.jpg",
+      "frame": 220,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "O",
+        "（13）",
+        "三",
+        "豆12月",
+        "(忌)",
+        "（）",
+        "（）",
+        "(",
+        "销君)",
+        "（号）"
+      ],
+      "scores": [
+        0.748,
+        0.676,
+        0.614,
+        0.532,
+        0.505,
+        0.727,
+        0.524,
+        0.648,
+        0.501,
+        0.637
+      ]
+    },
+    {
+      "file": "frame_000222.jpg",
+      "frame": 222,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "O",
+        "（）",
+        "（3",
+        "（活会异）",
+        "（确活)",
+        "（）",
+        "（号品）"
+      ],
+      "scores": [
+        0.775,
+        0.67,
+        0.595,
+        0.534,
+        0.532,
+        0.686,
+        0.685
+      ]
+    },
+    {
+      "file": "frame_000223.jpg",
+      "frame": 223,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 12,
+      "content_box_count": 11,
+      "texts": [
+        "O",
+        "（13）",
+        "（43）",
+        "1",
+        "三",
+        "豆院12月",
+        "（州）",
+        "（号）",
+        "（）",
+        "(消君)",
+        "（号）"
+      ],
+      "scores": [
+        0.736,
+        0.773,
+        0.683,
+        0.51,
+        0.653,
+        0.559,
+        0.538,
+        0.598,
+        0.505,
+        0.622,
+        0.563
+      ]
+    },
+    {
+      "file": "frame_000224.jpg",
+      "frame": 224,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 14,
+      "content_box_count": 13,
+      "texts": [
+        "O",
+        "（13）",
+        "（3）",
+        "三",
+        "121",
+        "豆院12月",
+        "（）",
+        "（号)",
+        "（）",
+        "(",
+        "(",
+        "（）"
+      ],
+      "scores": [
+        0.684,
+        0.745,
+        0.65,
+        0.68,
+        0.54,
+        0.554,
+        0.58,
+        0.609,
+        0.509,
+        0.61,
+        0.587,
+        0.671
+      ]
+    },
+    {
+      "file": "frame_000225.jpg",
+      "frame": 225,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 13,
+      "content_box_count": 12,
+      "texts": [
+        "O",
+        "（13）",
+        "3）",
+        "2号",
+        "三",
+        "12",
+        "豆12月",
+        "（号）",
+        "（全号）",
+        "（启)",
+        "（号10）",
+        "（品）"
+      ],
+      "scores": [
+        0.713,
+        0.749,
+        0.635,
+        0.766,
+        0.772,
+        0.527,
+        0.564,
+        0.534,
+        0.556,
+        0.56,
+        0.625,
+        0.586
+      ]
+    },
+    {
+      "file": "frame_000226.jpg",
+      "frame": 226,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 13,
+      "content_box_count": 12,
+      "texts": [
+        "O",
+        "（13）",
+        "（43）",
+        "三",
+        "1月",
+        "2月",
+        "豆12月",
+        "）",
+        "（舒）",
+        "（全）",
+        "（0吉）",
+        "（品）"
+      ],
+      "scores": [
+        0.7,
+        0.74,
+        0.61,
+        0.538,
+        0.545,
+        0.556,
+        0.594,
+        0.502,
+        0.532,
+        0.583,
+        0.606,
+        0.564
+      ]
+    },
+    {
+      "file": "frame_000228.jpg",
+      "frame": 228,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "STAFF",
+        "URBA",
+        "ONNECT",
+        "N",
+        "CONNECT"
+      ],
+      "scores": [
+        0.932,
+        0.994,
+        0.834,
+        0.67,
+        0.994
+      ]
+    },
+    {
+      "file": "frame_000229.jpg",
+      "frame": 229,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 5,
+      "content_box_count": 4,
+      "texts": [
+        "CONNECT",
+        "STAFF",
+        "URBA",
+        "CONNECT"
+      ],
+      "scores": [
+        0.97,
+        0.988,
+        0.993,
+        0.993
+      ]
+    },
+    {
+      "file": "frame_000230.jpg",
+      "frame": 230,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 5,
+      "content_box_count": 4,
+      "texts": [
+        "CONNECT",
+        "STAFF",
+        "URBA",
+        "CONNECT"
+      ],
+      "scores": [
+        0.98,
+        0.984,
+        0.993,
+        0.99
+      ]
+    },
+    {
+      "file": "frame_000231.jpg",
+      "frame": 231,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "CONNECT",
+        "STAFF",
+        "URBA",
+        "N>",
+        "CONNECT"
+      ],
+      "scores": [
+        0.976,
+        0.985,
+        0.992,
+        0.751,
+        0.982
+      ]
+    },
+    {
+      "file": "frame_000232.jpg",
+      "frame": 232,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 5,
+      "content_box_count": 4,
+      "texts": [
+        "STAR",
+        "URBA",
+        "NY",
+        "CONNECT"
+      ],
+      "scores": [
+        0.982,
+        0.994,
+        0.598,
+        0.992
+      ]
+    },
+    {
+      "file": "frame_000233.jpg",
+      "frame": 233,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 5,
+      "content_box_count": 4,
+      "texts": [
+        "FF",
+        "URBA",
+        "N>",
+        "CONNECT"
+      ],
+      "scores": [
+        0.993,
+        0.993,
+        0.514,
+        0.995
+      ]
+    },
+    {
+      "file": "frame_000240.jpg",
+      "frame": 240,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号kB）",
+        "NY",
+        "SANITAI",
+        "\"UNIFRA"
+      ],
+      "scores": [
+        0.71,
+        0.897,
+        0.808,
+        0.567,
+        0.746,
+        0.975,
+        0.944
+      ]
+    },
+    {
+      "file": "frame_000241.jpg",
+      "frame": 241,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号B）",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.782,
+        0.73,
+        0.775,
+        0.692,
+        0.874,
+        0.97,
+        0.943
+      ]
+    },
+    {
+      "file": "frame_000253.jpg",
+      "frame": 253,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（号o）",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.56,
+        0.944,
+        0.786,
+        0.689,
+        0.709,
+        0.972,
+        0.936
+      ]
+    },
+    {
+      "file": "frame_000254.jpg",
+      "frame": 254,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 10,
+      "content_box_count": 9,
+      "texts": [
+        "品",
+        "hlelo",
+        "型//",
+        "/|/BM",
+        "品品品品K",
+        "（号标品R&kB）",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.542,
+        0.917,
+        0.561,
+        0.719,
+        0.778,
+        0.573,
+        0.901,
+        0.964,
+        0.975
+      ]
+    },
+    {
+      "file": "frame_000266.jpg",
+      "frame": 266,
+      "is_document": true,
+      "line_count": 7,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "K",
+        "h",
+        "（号良品loo）",
+        "（号品nn",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.674,
+        0.69,
+        0.822,
+        0.553,
+        0.611,
+        0.568,
+        0.54,
+        0.744,
+        0.97,
+        0.904
+      ]
+    },
+    {
+      "file": "frame_000280.jpg",
+      "frame": 280,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号nlnh",
+        "NY",
+        "SANITI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.674,
+        0.764,
+        0.74,
+        0.608,
+        0.888,
+        0.978,
+        0.913
+      ]
+    },
+    {
+      "file": "frame_000282.jpg",
+      "frame": 282,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号品8nn&",
+        "NY",
+        "SANITI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.616,
+        0.821,
+        0.744,
+        0.515,
+        0.743,
+        0.978,
+        0.915
+      ]
+    },
+    {
+      "file": "frame_000296.jpg",
+      "frame": 296,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号品&kB）",
+        "NY",
+        "SANITAI",
+        "\"UNIFR"
+      ],
+      "scores": [
+        0.671,
+        0.783,
+        0.747,
+        0.575,
+        0.922,
+        0.987,
+        0.977
+      ]
+    },
+    {
+      "file": "frame_000297.jpg",
+      "frame": 297,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "（品lo量器oxilololo）",
+        "（号品合n",
+        "NY",
+        "SANITAI",
+        "\"UNIFR"
+      ],
+      "scores": [
+        0.842,
+        0.742,
+        0.58,
+        0.615,
+        0.971,
+        0.986,
+        0.973
+      ]
+    },
+    {
+      "file": "frame_000300.jpg",
+      "frame": 300,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "NY",
+        "SANITAI",
+        "\"UNIFO"
+      ],
+      "scores": [
+        0.543,
+        0.894,
+        0.753,
+        0.862,
+        0.977,
+        0.87
+      ]
+    },
+    {
+      "file": "frame_000301.jpg",
+      "frame": 301,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//鸡",
+        "/BM",
+        "品品品品K",
+        "（号会R&B）",
+        "NY",
+        "SANITAI",
+        "\"UNIF"
+      ],
+      "scores": [
+        0.575,
+        0.903,
+        0.787,
+        0.601,
+        0.889,
+        0.978,
+        0.813
+      ]
+    },
+    {
+      "file": "frame_000308.jpg",
+      "frame": 308,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "//",
+        "//BM",
+        "品品品品K",
+        "NY",
+        "SANITAT.",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.766,
+        0.855,
+        0.797,
+        0.994,
+        0.966,
+        0.915
+      ]
+    },
+    {
+      "file": "frame_000317.jpg",
+      "frame": 317,
+      "is_document": true,
+      "line_count": 7,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "（号品lo量器o品1o）",
+        "（号l",
+        "NY",
+        "SANITAI.",
+        "\"UNIRRAA"
+      ],
+      "scores": [
+        0.769,
+        0.794,
+        0.572,
+        0.701,
+        0.993,
+        0.907,
+        0.883
+      ]
+    },
+    {
+      "file": "frame_000325.jpg",
+      "frame": 325,
+      "is_document": true,
+      "line_count": 7,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "（品loxBlololo）",
+        "（号品8owB）",
+        "NY",
+        "SANITAI",
+        "\"UNIFR"
+      ],
+      "scores": [
+        0.782,
+        0.81,
+        0.657,
+        0.537,
+        0.98,
+        0.986,
+        0.908
+      ]
+    },
+    {
+      "file": "frame_000326.jpg",
+      "frame": 326,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号品8ln",
+        "NY",
+        "SANITAI",
+        "\"UNIFRA"
+      ],
+      "scores": [
+        0.585,
+        0.827,
+        0.786,
+        0.52,
+        0.977,
+        0.975,
+        0.972
+      ]
+    },
+    {
+      "file": "frame_000327.jpg",
+      "frame": 327,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（号8Rk）",
+        "NY",
+        "SANITI.",
+        "\"UNIRG"
+      ],
+      "scores": [
+        0.661,
+        0.583,
+        0.754,
+        0.603,
+        0.97,
+        0.959,
+        0.913
+      ]
+    },
+    {
+      "file": "frame_000328.jpg",
+      "frame": 328,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//鸡",
+        "/",
+        "品品品品K",
+        "（号品n",
+        "NY",
+        "SANITI",
+        "\"UNIFR"
+      ],
+      "scores": [
+        0.689,
+        0.675,
+        0.714,
+        0.639,
+        0.936,
+        0.899,
+        0.956
+      ]
+    },
+    {
+      "file": "frame_000342.jpg",
+      "frame": 342,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/",
+        "/",
+        "品品品品K",
+        "（号良品lo器colo1o）",
+        "N:",
+        "SANITAI",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.745,
+        0.705,
+        0.735,
+        0.639,
+        0.714,
+        0.916,
+        0.964
+      ]
+    },
+    {
+      "file": "frame_000343.jpg",
+      "frame": 343,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "品",
+        "//",
+        "/BM",
+        "品品品品K",
+        "hlx",
+        "NY",
+        "SANITI",
+        "\"UNIFRA"
+      ],
+      "scores": [
+        0.808,
+        0.786,
+        0.641,
+        0.751,
+        0.51,
+        0.64,
+        0.983,
+        0.941
+      ]
+    },
+    {
+      "file": "frame_000344.jpg",
+      "frame": 344,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.735,
+        0.844,
+        0.782,
+        0.736,
+        0.984,
+        0.974
+      ]
+    },
+    {
+      "file": "frame_000345.jpg",
+      "frame": 345,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.67,
+        0.642,
+        0.715,
+        0.785,
+        0.97,
+        0.933
+      ]
+    },
+    {
+      "file": "frame_000346.jpg",
+      "frame": 346,
+      "is_document": true,
+      "line_count": 6,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "品",
+        "型/",
+        "/BM",
+        "品品品品K",
+        "百K",
+        "（号品lo器xlo）",
+        "2026326（",
+        "NY",
+        "SANITAI",
+        "\"UNIFRM\""
+      ],
+      "scores": [
+        0.801,
+        0.561,
+        0.905,
+        0.72,
+        0.536,
+        0.545,
+        0.897,
+        0.875,
+        0.96,
+        0.913
+      ]
+    },
+    {
+      "file": "frame_000347.jpg",
+      "frame": 347,
+      "is_document": true,
+      "line_count": 1,
+      "ocr_box_count": 26,
+      "content_box_count": 25,
+      "texts": [
+        "O",
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "14:00-14:10",
+        "/",
+        "14:10-16:30敬型",
+        "0",
+        "1-22:00|2元-22:15"
+      ],
+      "scores": [
+        0.549,
+        0.988,
+        0.946,
+        0.949,
+        0.99,
+        0.992,
+        0.987,
+        0.909,
+        0.643,
+        0.778,
+        0.551,
+        0.867
+      ]
+    },
+    {
+      "file": "frame_000348.jpg",
+      "frame": 348,
+      "is_document": true,
+      "line_count": 1,
+      "ocr_box_count": 28,
+      "content_box_count": 27,
+      "texts": [
+        "TIMETABLE",
+        "MABINOGIT'",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "LI",
+        "14:00-14:10",
+        "/早",
+        "14:10-16：30X",
+        "1-22:00|2天-22:15",
+        "18:30-17:00"
+      ],
+      "scores": [
+        0.989,
+        0.9,
+        0.964,
+        0.99,
+        0.993,
+        0.985,
+        0.678,
+        0.922,
+        0.672,
+        0.732,
+        0.868,
+        0.894
+      ]
+    },
+    {
+      "file": "frame_000349.jpg",
+      "frame": 349,
+      "is_document": true,
+      "line_count": 1,
+      "ocr_box_count": 24,
+      "content_box_count": 23,
+      "texts": [
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "U",
+        "14:00-14:0",
+        "10星",
+        "14:10-16:30",
+        "1-22:00|2天-22:15",
+        "18:30-17:00"
+      ],
+      "scores": [
+        0.988,
+        0.978,
+        0.972,
+        0.988,
+        0.993,
+        0.991,
+        0.68,
+        0.906,
+        0.659,
+        0.86,
+        0.878,
+        0.911
+      ]
+    },
+    {
+      "file": "frame_000350.jpg",
+      "frame": 350,
+      "is_document": true,
+      "line_count": 1,
+      "ocr_box_count": 24,
+      "content_box_count": 23,
+      "texts": [
+        "MABINOGIT'",
+        "TIMETABLE",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "L",
+        "14:00-14:10",
+        "14:10-16:30X智9",
+        "1-22:00|2-22:15",
+        "16:30-17:00",
+        "BREAKTIME"
+      ],
+      "scores": [
+        0.905,
+        0.989,
+        0.96,
+        0.992,
+        0.992,
+        0.884,
+        0.956,
+        0.949,
+        0.673,
+        0.911,
+        0.841,
+        0.925
+      ]
+    },
+    {
+      "file": "frame_000351.jpg",
+      "frame": 351,
+      "is_document": true,
+      "line_count": 1,
+      "ocr_box_count": 23,
+      "content_box_count": 22,
+      "texts": [
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "LI",
+        "14:00-14110",
+        "14:10-16:309",
+        "1-22:00|2天-22:15",
+        "18:30-17:00",
+        "BREAKTIME"
+      ],
+      "scores": [
+        0.99,
+        0.963,
+        0.945,
+        0.991,
+        0.991,
+        0.99,
+        0.721,
+        0.855,
+        0.767,
+        0.878,
+        0.853,
+        0.821
+      ]
+    },
+    {
+      "file": "frame_000352.jpg",
+      "frame": 352,
+      "is_document": true,
+      "line_count": 1,
+      "ocr_box_count": 24,
+      "content_box_count": 23,
+      "texts": [
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGI",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "LIB",
+        "14:00-14:10",
+        "1",
+        "14:10-18:30X配",
+        "1-22:00|2-22:15",
+        "18:30-17:00"
+      ],
+      "scores": [
+        0.987,
+        0.942,
+        0.988,
+        0.989,
+        0.989,
+        0.991,
+        0.599,
+        0.936,
+        0.597,
+        0.677,
+        0.908,
+        0.933
+      ]
+    },
+    {
+      "file": "frame_000353.jpg",
+      "frame": 353,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "（号品loxiooo）",
+        "（号品nkB）",
+        "N:",
+        "SANITI",
+        "\"UNIFRM"
+      ],
+      "scores": [
+        0.844,
+        0.733,
+        0.615,
+        0.571,
+        0.663,
+        0.981,
+        0.96
+      ]
+    },
+    {
+      "file": "frame_000384.jpg",
+      "frame": 384,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "TIMETABLE",
+        "MABINOGI",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "4230",
+        "22:00|2-22:15",
+        "自/智上",
+        "10Y喜1018"
+      ],
+      "scores": [
+        0.991,
+        0.982,
+        0.931,
+        0.99,
+        0.99,
+        0.987,
+        0.749,
+        0.878,
+        0.504,
+        0.681
+      ]
+    },
+    {
+      "file": "frame_000385.jpg",
+      "frame": 385,
+      "is_document": true,
+      "line_count": 1,
+      "ocr_box_count": 17,
+      "content_box_count": 16,
+      "texts": [
+        "O",
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT'",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "14:00-14:10",
+        "10星H3",
+        "14:10-18:30",
+        "22:00|2-22:15",
+        "17:00-19:00"
+      ],
+      "scores": [
+        0.646,
+        0.988,
+        0.971,
+        0.908,
+        0.991,
+        0.991,
+        0.99,
+        0.901,
+        0.502,
+        0.953,
+        0.906,
+        0.973
+      ]
+    },
+    {
+      "file": "frame_000386.jpg",
+      "frame": 386,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 16,
+      "content_box_count": 15,
+      "texts": [
+        "O",
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "4:00-14:10",
+        "14:10-16:30",
+        "X",
+        "22:00|2-22:15",
+        "/"
+      ],
+      "scores": [
+        0.593,
+        0.988,
+        0.943,
+        0.956,
+        0.991,
+        0.991,
+        0.987,
+        0.896,
+        0.944,
+        0.594,
+        0.908,
+        0.87
+      ]
+    },
+    {
+      "file": "frame_000387.jpg",
+      "frame": 387,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 16,
+      "content_box_count": 15,
+      "texts": [
+        "O",
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "14:00-14110",
+        "1星HI",
+        "14:10-18:30",
+        "22:00|2-22:15",
+        "/智尘"
+      ],
+      "scores": [
+        0.586,
+        0.993,
+        0.979,
+        0.936,
+        0.992,
+        0.992,
+        0.982,
+        0.88,
+        0.639,
+        0.963,
+        0.911,
+        0.678
+      ]
+    },
+    {
+      "file": "frame_000388.jpg",
+      "frame": 388,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 16,
+      "content_box_count": 15,
+      "texts": [
+        "O",
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "/号",
+        "14:10-16:30",
+        "AW",
+        "22:00|2-22:15",
+        "自/对智全"
+      ],
+      "scores": [
+        0.623,
+        0.988,
+        0.962,
+        0.941,
+        0.991,
+        0.99,
+        0.985,
+        0.793,
+        0.922,
+        0.704,
+        0.915,
+        0.521
+      ]
+    },
+    {
+      "file": "frame_000389.jpg",
+      "frame": 389,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 11,
+      "content_box_count": 10,
+      "texts": [
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "14:10",
+        "22:00|21-22:15",
+        "/智尘",
+        "10IY102180："
+      ],
+      "scores": [
+        0.99,
+        0.962,
+        0.972,
+        0.992,
+        0.99,
+        0.989,
+        0.75,
+        0.884,
+        0.598,
+        0.666
+      ]
+    },
+    {
+      "file": "frame_000390.jpg",
+      "frame": 390,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 13,
+      "content_box_count": 12,
+      "texts": [
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "14:00-14:0",
+        "14:10-10:30",
+        "22:00|2-22:15",
+        "17:00-10:00",
+        "GB",
+        "22:30"
+      ],
+      "scores": [
+        0.988,
+        0.976,
+        0.949,
+        0.991,
+        0.989,
+        0.984,
+        0.916,
+        0.918,
+        0.912,
+        0.962,
+        0.569,
+        0.928
+      ]
+    },
+    {
+      "file": "frame_000391.jpg",
+      "frame": 391,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 12,
+      "content_box_count": 11,
+      "texts": [
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "14:10-10:30",
+        "22:00|2-22:15",
+        "/对",
+        "17:00-1",
+        "10Y102证叉花189："
+      ],
+      "scores": [
+        0.988,
+        0.941,
+        0.956,
+        0.984,
+        0.987,
+        0.991,
+        0.922,
+        0.911,
+        0.526,
+        0.912,
+        0.591
+      ]
+    },
+    {
+      "file": "frame_000392.jpg",
+      "frame": 392,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 14,
+      "content_box_count": 13,
+      "texts": [
+        "O",
+        "TIMETABLE",
+        "MABINOGIT",
+        "MABINOGIT",
+        "CONNECT",
+        "CONNECT",
+        "TIME",
+        "14:0-14:10",
+        "14:10-16:30X",
+        "22:00|2-22:15",
+        "17:00-19:00",
+        "10Y首102证189："
+      ],
+      "scores": [
+        0.538,
+        0.987,
+        0.943,
+        0.962,
+        0.984,
+        0.989,
+        0.993,
+        0.749,
+        0.858,
+        0.899,
+        0.97,
+        0.622
+      ]
+    },
+    {
+      "file": "frame_000393.jpg",
+      "frame": 393,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号品",
+        "号",
+        "N",
+        "SANITAT",
+        "\"VIFORM\""
+      ],
+      "scores": [
+        0.582,
+        0.713,
+        0.692,
+        0.694,
+        0.565,
+        0.994,
+        0.851,
+        0.853
+      ]
+    },
+    {
+      "file": "frame_000394.jpg",
+      "frame": 394,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号品aok）",
+        "N",
+        "SANITAT",
+        "\"UIFORM\""
+      ],
+      "scores": [
+        0.649,
+        0.705,
+        0.772,
+        0.542,
+        0.997,
+        0.94,
+        0.881
+      ]
+    },
+    {
+      "file": "frame_000395.jpg",
+      "frame": 395,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（号存BoR&kB）",
+        "N",
+        "SANLIAT",
+        "\"UFORM\""
+      ],
+      "scores": [
+        0.722,
+        0.79,
+        0.756,
+        0.563,
+        0.998,
+        0.782,
+        0.843
+      ]
+    },
+    {
+      "file": "frame_000396.jpg",
+      "frame": 396,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "(",
+        "（号品8nn&Ho",
+        "SANIA",
+        "\"UNIFE"
+      ],
+      "scores": [
+        0.588,
+        0.741,
+        0.731,
+        0.732,
+        0.613,
+        0.851,
+        0.857
+      ]
+    },
+    {
+      "file": "frame_000397.jpg",
+      "frame": 397,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "STAFF",
+        "URBAN",
+        "F",
+        "DSK",
+        "CONNECT",
+        "Shuralumind"
+      ],
+      "scores": [
+        0.991,
+        0.988,
+        0.987,
+        0.758,
+        0.993,
+        0.909
+      ]
+    },
+    {
+      "file": "frame_000398.jpg",
+      "frame": 398,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 4,
+      "content_box_count": 3,
+      "texts": [
+        "URBAN",
+        "Fi",
+        "DSH"
+      ],
+      "scores": [
+        0.989,
+        0.765,
+        0.753
+      ]
+    },
+    {
+      "file": "frame_000402.jpg",
+      "frame": 402,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "URBAN",
+        "F",
+        "DSH",
+        "CONNECT",
+        "shuralum"
+      ],
+      "scores": [
+        0.97,
+        0.939,
+        0.88,
+        0.994,
+        0.952
+      ]
+    },
+    {
+      "file": "frame_000404.jpg",
+      "frame": 404,
+      "is_document": true,
+      "line_count": 2,
+      "ocr_box_count": 3,
+      "content_box_count": 2,
+      "texts": [
+        "URBAN,",
+        "NY"
+      ],
+      "scores": [
+        0.935,
+        0.891
+      ]
+    },
+    {
+      "file": "frame_000405.jpg",
+      "frame": 405,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "/BM",
+        "品品品品K",
+        "（号体合A2R&k）",
+        "SANNA",
+        "\"UNIFOM"
+      ],
+      "scores": [
+        0.821,
+        0.816,
+        0.526,
+        0.832,
+        0.934
+      ]
+    },
+    {
+      "file": "frame_000406.jpg",
+      "frame": 406,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/",
+        "/BM",
+        "品品品品K",
+        "（号&B）",
+        "SANUA",
+        "\"UNIFOM"
+      ],
+      "scores": [
+        0.551,
+        0.886,
+        0.814,
+        0.694,
+        0.828,
+        0.925
+      ]
+    },
+    {
+      "file": "frame_000409.jpg",
+      "frame": 409,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "B/c",
+        "/鸡",
+        "/B",
+        "品品品品K",
+        "（号品易合ln",
+        "N",
+        "SAN-A",
+        "\"UNIFO"
+      ],
+      "scores": [
+        0.544,
+        0.521,
+        0.756,
+        0.805,
+        0.532,
+        0.609,
+        0.815,
+        0.958
+      ]
+    },
+    {
+      "file": "frame_000410.jpg",
+      "frame": 410,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "/鸡",
+        "/BM",
+        "品品品品K",
+        "（号品l",
+        "SAN\"A,",
+        "\"UNIFOM"
+      ],
+      "scores": [
+        0.55,
+        0.663,
+        0.775,
+        0.583,
+        0.776,
+        0.843
+      ]
+    },
+    {
+      "file": "frame_000446.jpg",
+      "frame": 446,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "（号品会ln",
+        "N",
+        "SAN-AI",
+        "NIFORM"
+      ],
+      "scores": [
+        0.576,
+        0.708,
+        0.705,
+        0.55,
+        0.998,
+        0.825,
+        0.883
+      ]
+    },
+    {
+      "file": "frame_000492.jpg",
+      "frame": 492,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "/B",
+        "品品品品K",
+        "（号良品loxco百o）",
+        "（号8k）",
+        "N",
+        "SANIAT.",
+        "\"gNIFORM\""
+      ],
+      "scores": [
+        0.722,
+        0.781,
+        0.624,
+        0.62,
+        0.983,
+        0.8,
+        0.907
+      ]
+    },
+    {
+      "file": "frame_000495.jpg",
+      "frame": 495,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "品",
+        "//BM",
+        "品品品品K",
+        "（号8）",
+        "N",
+        "SANIAT.",
+        "\"NIFORM"
+      ],
+      "scores": [
+        0.753,
+        0.538,
+        0.804,
+        0.636,
+        0.991,
+        0.804,
+        0.957
+      ]
+    },
+    {
+      "file": "frame_000496.jpg",
+      "frame": 496,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/",
+        "品品品品K",
+        "（号品8n&",
+        "N",
+        "SANIAI",
+        "\"gNIFORM"
+      ],
+      "scores": [
+        0.667,
+        0.704,
+        0.846,
+        0.524,
+        0.969,
+        0.834,
+        0.818
+      ]
+    },
+    {
+      "file": "frame_000497.jpg",
+      "frame": 497,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "型//",
+        "/B",
+        "品品品品K",
+        "N",
+        "SANIAT",
+        "\"ONIFORA"
+      ],
+      "scores": [
+        0.544,
+        0.552,
+        0.772,
+        0.991,
+        0.917,
+        0.811
+      ]
+    },
+    {
+      "file": "frame_000498.jpg",
+      "frame": 498,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "B百K",
+        "（号8月l",
+        "N",
+        "SANITAT,",
+        "\"NIFORM"
+      ],
+      "scores": [
+        0.734,
+        0.759,
+        0.8,
+        0.548,
+        0.574,
+        0.958,
+        0.905,
+        0.938
+      ]
+    },
+    {
+      "file": "frame_000503.jpg",
+      "frame": 503,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "PA",
+        "B/&品/血设",
+        "/BM",
+        "品品品品K",
+        "N",
+        "SANAT.",
+        "\"UNIFORM"
+      ],
+      "scores": [
+        0.52,
+        0.664,
+        0.918,
+        0.783,
+        0.975,
+        0.93,
+        0.851
+      ]
+    },
+    {
+      "file": "frame_000510.jpg",
+      "frame": 510,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//鸡",
+        "/BM",
+        "品品品品K",
+        "（号品ohkB）",
+        "N",
+        "SANATI",
+        "\"UNIFORM\""
+      ],
+      "scores": [
+        0.733,
+        0.704,
+        0.794,
+        0.609,
+        0.967,
+        0.914,
+        0.89
+      ]
+    },
+    {
+      "file": "frame_000514.jpg",
+      "frame": 514,
+      "is_document": true,
+      "line_count": 5,
+      "ocr_box_count": 8,
+      "content_box_count": 7,
+      "texts": [
+        "//",
+        "/BM",
+        "品品品品K",
+        "K",
+        "（号品青会nln",
+        "SAN\"A.",
+        "\"gNIFOA."
+      ],
+      "scores": [
+        0.763,
+        0.664,
+        0.807,
+        0.588,
+        0.53,
+        0.933,
+        0.772
+      ]
+    },
+    {
+      "file": "frame_000527.jpg",
+      "frame": 527,
+      "is_document": true,
+      "line_count": 3,
+      "ocr_box_count": 6,
+      "content_box_count": 5,
+      "texts": [
+        "Be/&品/台设",
+        "/",
+        "品品品品K",
+        "SANIA.",
+        "\"UNIFOW."
+      ],
+      "scores": [
+        0.653,
+        0.706,
+        0.773,
+        0.921,
+        0.793
+      ]
+    },
+    {
+      "file": "frame_000528.jpg",
+      "frame": 528,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 9,
+      "content_box_count": 8,
+      "texts": [
+        "8品",
+        "/",
+        "/BM",
+        "品品品品K",
+        "科",
+        "（号品8A",
+        "SANIA.",
+        "\"UNIFON"
+      ],
+      "scores": [
+        0.554,
+        0.699,
+        0.703,
+        0.841,
+        0.534,
+        0.561,
+        0.928,
+        0.802
+      ]
+    },
+    {
+      "file": "frame_000529.jpg",
+      "frame": 529,
+      "is_document": true,
+      "line_count": 4,
+      "ocr_box_count": 7,
+      "content_box_count": 6,
+      "texts": [
+        "型//鸡",
+        "//BM",
+        "品品品品K",
+        "（号品合nln",
+        "SANNA.",
+        "\"ONIFON."
+      ],
+      "scores": [
+        0.503,
+        0.769,
+        0.739,
+        0.538,
+        0.868,
+        0.767
+      ]
+    }
+  ]
+}
