@@ -1,5 +1,6 @@
 # Runtime/temporary files
 stream_url.txt
+stream_urls.txt
 processes.txt
 pid_*.txt
 *.log
